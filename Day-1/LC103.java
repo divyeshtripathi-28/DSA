@@ -26,7 +26,7 @@ class Solution {
 
         q.add(root);
         q.add(null);
-
+        
         List<Integer> dum = new ArrayList<>();
 
         while(!q.isEmpty()) {
