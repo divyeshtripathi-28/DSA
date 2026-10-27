@@ -53,6 +53,7 @@ My focus is on **understanding the logic behind every solution rather than simpl
 
 - **GitHub:** [@divyeshtripathi-28](https://github.com/divyeshtripathi-28)
 - **LeetCode:** [My LeetCode Profile](https://leetcode.com/u/DivyeshTripathi/)
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/divyesh-tripathi/)
 
 ---
 
